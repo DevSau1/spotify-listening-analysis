@@ -41,7 +41,7 @@ The goal was to better understand how listening habits vary by time of day and e
 ---
 
 ## Visualization
-![Spotify Dashboard](spotify_dashboard.png)
+![Spotify Dashboard](Spotify Listening Behavior Analysis.png)
 
 ---
 
